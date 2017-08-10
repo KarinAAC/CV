@@ -1,10 +1,12 @@
 section{
+  height: 900px;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
 }
 section img{
+  border: 1px solid #ebebeb;
   width: 600px;
   height: 800px;
 }
